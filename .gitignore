@@ -1,0 +1,69 @@
+﻿# Superfolder Git Ignore
+# This repository tracks system-level files and workspace configurations
+# Project-specific files are handled by individual project repositories
+
+# Project-specific Git repositories (handled by individual repos)
+a11y-ai/.git/
+obsidian-vaults/.git/
+chatgpt-projects/.git/
+other-projects/.git/
+
+# Project-specific files (handled by individual repos)
+a11y-ai/projects/
+a11y-ai/venv/
+a11y-ai/__pycache__/
+a11y-ai/*.pyc
+a11y-ai/*.pyo
+a11y-ai/*.pyd
+a11y-ai/.Python
+a11y-ai/build/
+a11y-ai/develop-eggs/
+a11y-ai/dist/
+a11y-ai/downloads/
+a11y-ai/eggs/
+a11y-ai/.eggs/
+a11y-ai/lib/
+a11y-ai/lib64/
+a11y-ai/parts/
+a11y-ai/sdist/
+a11y-ai/var/
+a11y-ai/wheels/
+a11y-ai/*.egg-info/
+a11y-ai/.installed.cfg
+a11y-ai/*.egg
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Cache files
+.cache/
+*.cache
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if any)
+node_modules/
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
