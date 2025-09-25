@@ -1,0 +1,41 @@
+{
+    "settings": {
+        "cursor.telemetry.anonymousUsage": true,
+        "files.autoSave": "afterDelay",
+        "cursor.rules.paths": [
+            ".cursorrules"
+        ],
+        "files.autoSaveDelay": 1500
+    },
+    "folders": [
+        {
+            "name": "Master Knowledge Base",
+            "path": "."
+        },
+        {
+            "name": "A11y AI Project",
+            "path": "./a11y-ai"
+        },
+        {
+            "name": "ChatGPT Projects",
+            "path": "./chatgpt-projects"
+        },
+        {
+            "name": "Obsidian Vaults",
+            "path": "./obsidian-vaults"
+        },
+        {
+            "name": "Other Projects",
+            "path": "./other-projects"
+        }
+    ],
+    "extensions": {
+        "recommendations": [
+            "ms-python.python",
+            "ms-vscode.powershell",
+            "yzhang.markdown-all-in-one",
+            "ms-vscode.vscode-json"
+        ]
+    }
+}
+
