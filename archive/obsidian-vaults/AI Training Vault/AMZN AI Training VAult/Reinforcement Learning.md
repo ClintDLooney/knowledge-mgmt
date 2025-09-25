@@ -1,0 +1,1 @@
+The AI system interacts with a dynamic environment and must learn the optimal actions to take based on reinforcement learning. For example, the system could receive positive rewards for safe and efficient driving, and negative penalties for collisions or traffic violations.

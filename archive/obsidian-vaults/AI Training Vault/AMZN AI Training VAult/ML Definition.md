@@ -1,0 +1,2 @@
+ essence, ML is training a computer to recognize patterns in historical data to make predictions on new data. These predictions are then used to take business actions.
+ A dataset is used to train a model. In this dataset, there are features and labels. The goal is to take the features as inputs and find a formula that predicts the labels, or outputs. The resulting ML algorithms can take new data, recognize patterns in the data, apply the formula, and make predictions about the data.

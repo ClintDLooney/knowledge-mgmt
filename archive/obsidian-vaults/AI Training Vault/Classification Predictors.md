@@ -1,0 +1,1 @@
+- Features used to classify data, such as weight and hair length in the example of dog breeds.

@@ -1,0 +1,3 @@
+- Initial: humans teach the AI correct answers
+- Additional: AI generates multiple answers, humans rank them best to worst
+- 

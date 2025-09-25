@@ -1,0 +1,1 @@
+Neural networks are a powerful deep learning technique that is particularly well suited for tasks involving pattern recognition and classification, such as recognizing and classifying handwritten digits from images. They are inspired by the biological neural networks in the human brain.

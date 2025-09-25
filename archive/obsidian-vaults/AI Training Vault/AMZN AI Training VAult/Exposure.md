@@ -1,0 +1,10 @@
+**It's important to note that prompt injection can also be employed for nonmalicious purposes, such as overriding or customizing the responses from models to suit specific needs. Examples include preserving product names in translations or tailoring the model's outputs to align with particular preferences or requirements.**
+
+Consider a scenario where a system is trained on private customer data to generate personalized product recommendations. In such a case, there is a possibility that the system might unintentionally disclose details about individual customers' purchases or browsing histories within the recommendations that it generates for new customers. This potential exposure of private user information could undermine customers' privacy and erode their trust in the system.
+
+## Exposure example
+
+|                                                                                                        |                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Prompt**                                                                                             | **Output**                                                                                                                                                                       |
+| Generate a personalized book recommendation based on a user's previous purchases and browsing history. | Based on John Smith's recent purchase of _The Power of Habit_ by Charles Duhigg and his browsing history showing interest in self-improvement books, I would highly recommend... |

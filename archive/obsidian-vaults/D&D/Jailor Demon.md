@@ -1,0 +1,1 @@
+Hell's captors and sentinels. Horned and fanged, 4-winged, 8-armed, 2-legged, many-eyed and possessed of [[True Sight]]. Jailor demons are relatively frail at 150 Hit Points, but make 8 Longsword attacks t +10 to hit and 20/30 Slashing damage. 

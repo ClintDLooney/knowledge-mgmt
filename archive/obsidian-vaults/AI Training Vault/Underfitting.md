@@ -1,0 +1,2 @@
+- Underfitting the data to the model is when AI creates simple rules from its training data that don't work well on the larger test data set.  
+- 

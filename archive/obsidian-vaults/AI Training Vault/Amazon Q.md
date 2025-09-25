@@ -1,0 +1,1 @@
+Q has a context feature [[(Feature) Amazon Q Context]], which allows you to pin certain files such that they remain in context. 

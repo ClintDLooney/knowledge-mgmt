@@ -1,0 +1,1 @@
+Models that process huge amounts of text and encode ([[Encoding]]) word order and sentence meaning with minimal human input. It can generate words in a sentence or parts of an image based on this huge amount of contextual info. 

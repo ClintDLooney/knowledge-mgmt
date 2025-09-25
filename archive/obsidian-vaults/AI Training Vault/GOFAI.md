@@ -1,0 +1,1 @@
+"Good Old-Fashioned Artificial Intelligence" is little more than a long if-else-then statement. It lends itself to [[Expert Systems]]. implementation 

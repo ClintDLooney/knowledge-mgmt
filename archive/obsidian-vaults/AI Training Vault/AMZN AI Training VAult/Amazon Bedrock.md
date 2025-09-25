@@ -1,0 +1,2 @@
+A fully managed service making  Amazon/leading AI startup FMs available through an API. 
+	3. With Amazon Bedrock, you can quickly get started, experiment with FMs, privately customize them with your own data, and seamlessly integrate and deploy FMs into AWS applications. 

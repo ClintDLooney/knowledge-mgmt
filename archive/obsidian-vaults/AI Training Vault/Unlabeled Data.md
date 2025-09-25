@@ -1,0 +1,1 @@
+Data that does not come with predefined labels. This is used in unsupervised learning, where the machine must find patterns and relationships on its own.

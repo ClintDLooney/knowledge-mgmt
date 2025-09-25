@@ -1,0 +1,32 @@
+﻿# Obsidian specific
+.obsidian/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Cache files
+.cache/
+*.cache

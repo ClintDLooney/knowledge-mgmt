@@ -1,0 +1,1 @@
+Multimodal models are specifically designed to handle inputs from multiple modalities, such as text, images, audio, and video. These models can fuse and process information from different input sources.

@@ -1,0 +1,1 @@
+RL is an advanced ML technique that takes a very different approach to training models than other ML methods. Its superpower is that it learns very complex behaviors without requiring any labeled training data, and it can make short-term decisions while optimizing for a longer-term goal.

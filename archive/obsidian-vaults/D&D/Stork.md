@@ -1,0 +1,5 @@
+[[Stork's Cottage]]
+[[Lady Fate]]
+[[Morsch Green-Eye]]
+[[Beak of the Busybody]]
+[[Isolde]]

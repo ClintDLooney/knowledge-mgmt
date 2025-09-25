@@ -1,0 +1,8 @@
+[[Shadows (Campaign)]]
+Owned by [[Filibuster Flintlock]]
+[[Fizz Bingle]]
+[[Tristan Three-Trees]]
+[[Sylvia Slink]]
+[[Glassbottom Docks]]
+[[Glassbottom Telescope (Working Title)]]
+[[Glassbottom-Bastille Contract (Working Title)]]

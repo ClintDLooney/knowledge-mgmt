@@ -1,0 +1,1 @@
+Data that comes with tags or labels indicating the correct output. This is used in supervised learning to train the machine.

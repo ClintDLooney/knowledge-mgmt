@@ -1,0 +1,2 @@
+A humanoid woman with golden hair and fingernails found in the [[God Pods (Working Title)]] during the raid on [[Rosenfield's Winter Court Laboratory (Working Title)]].
+A [[Disciple of Bahamut]] whose sould was imprisoned in the [[Weeping Place]] after [[Bao'Thel]]aqquired her. 

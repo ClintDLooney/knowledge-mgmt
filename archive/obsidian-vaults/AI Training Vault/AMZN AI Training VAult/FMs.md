@@ -1,0 +1,1 @@
+Generative AI is powered by large language models that are pretrained on internet-scale data, and these models are called foundation models (FMs).  With FMs, instead of gathering labeled data for each model and training multiple models as in traditional ML, customers can adapt the same FM to perform multiple tasks.

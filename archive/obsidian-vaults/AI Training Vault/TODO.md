@@ -1,0 +1,8 @@
+- [ ] Copilot spin-up
+	- [ ] Get my 365 un-Japanesed
+	- [ ] Review course at https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work/leverage-several-copilot-tools-in-microsoft-teams?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A6477ad5c498e72fec31ca876&resume=false
+	- [ ] 
+- [ ] Learning Microsoft  365 Copilot for Work on Linkedin
+	- [ ] Related to https://www.linkedin.com/learning/streamlining-your-work-with-microsoft-copilot-25840178/understand-the-different-copilot-products?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A6477ad5c498e72fec31ca876&resume=false
+- [ ] Get MS365 copilot pro or whatever. 
+- [ ] 

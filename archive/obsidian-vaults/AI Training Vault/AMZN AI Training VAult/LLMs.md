@@ -1,0 +1,1 @@
+The large language models (LLM) have the ability to predict the next word in a sentence by taking into consideration the position and the context of a word in a sentence. LLMs use this ability to generate new content

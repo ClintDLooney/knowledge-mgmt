@@ -4,9 +4,8 @@
 
 # Project-specific Git repositories (handled by individual repos)
 a11y-ai/.git/
-obsidian-vaults/.git/
-chatgpt-projects/.git/
-other-projects/.git/
+# Archive content should be tracked
+# archive/ is intentionally tracked for backup purposes
 
 # Project-specific files (handled by individual repos)
 a11y-ai/projects/

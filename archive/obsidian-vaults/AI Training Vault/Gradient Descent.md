@@ -1,0 +1,1 @@
+A method used to adjust the weights and biases in the network based on the [[Cost Function]]. It helps the network make more accurate predictions by making necessary adjustments.

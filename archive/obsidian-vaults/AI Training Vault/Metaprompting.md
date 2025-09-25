@@ -1,0 +1,1 @@
+Writing prompts about prompts, or instructions that help the model build or modify its own prompt structure dynamically.

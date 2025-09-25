@@ -1,0 +1,7 @@
+- A supervised machine learning algorithm that looks at the relationship between [[Predictors]] (input variables) and the outcome.
+- You take the training data and label the correct output. 
+- Involves using training data to make predictions and then refining those predictions by comparing them to actual outcomes.
+- Involves using training data to make predictions and then refining those predictions by comparing them to actual outcomes.
+- Regression analysis doesn't tell you why a trend emerges, it just identifies the trend. 
+- ML regression algorithms take training data, and make predictions. Then they see how close they are to theactual outcome. Then they iterate until their predictions are very accurate. 
+- 

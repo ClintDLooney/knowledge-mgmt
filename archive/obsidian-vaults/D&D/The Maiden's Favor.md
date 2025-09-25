@@ -1,0 +1,1 @@
+Granted to [[Thayo Brightborn]] by [[Wild Hops]] during the [[Cleansing of the Four]].

@@ -1,0 +1,1 @@
+Backprop for short. This is when a [[Feed Forward Neural Network]] makes a mistake, it uses [[Gradient Descent]], adjusts its weights and biases based on how serious its error was. This process involves feeding forward data and then correcting backward to fine-tune the network towards the correct answer.

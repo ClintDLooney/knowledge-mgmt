@@ -1,0 +1,2 @@
+Overfitting the data is when you add too many rules/too much complexityh to a model. 
+the model happens when a model is too complex and captures noise along with the underlying patterns. It performs well on training data but poorly on new data due to its complexity.

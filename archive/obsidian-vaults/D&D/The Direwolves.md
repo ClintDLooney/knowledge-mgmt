@@ -1,0 +1,1 @@
+Rescued from a [[Brotherhood of Agony]] berserker.  Left with [[Bartok Saddler]] to his initial dismay. 

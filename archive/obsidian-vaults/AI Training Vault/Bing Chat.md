@@ -1,0 +1,6 @@
+- Bing Chat uses GPT technology and can access the entire internet 
+	- Because it can access the whole internet, you can confirm your sources with Bing. 
+- Offers different response modes 
+	- Creative
+	- Precise
+	- Balanced

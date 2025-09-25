@@ -1,0 +1,6 @@
+[[BoA Berserker]]
+[[Direwolves]]
+[[Wyverns]]
+[[Krenna Grist]]
+[[Luther Grist]]
+[[Cultist 2]]
