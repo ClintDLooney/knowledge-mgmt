@@ -4,9 +4,15 @@
 This is the master knowledge management repository containing multiple subprojects and learning initiatives.
 
 ## Project Structure
-- **a11y-ai/**: Main accessibility AI business project with OCR tools and automation
-- **chatgpt-projects/**: ChatGPT-related projects and experiments
-- **obsidian-vaults/**: Obsidian knowledge management vaults
+- **a11y-ai/**: Accessibility AI business products (submodule - OCR tools, audit tools, etc.)
+- **archive/**: Original imported content preserved in original format
+  - **chatgpt-projects/**: Original ChatGPT exports (IAAP certification, business strategy)
+  - **obsidian-vaults/**: Original Obsidian vaults (AI training, D&D content)
+- **shared/**: Cross-project knowledge and resources
+  - **prompts/**: Reusable prompts and SOPs
+  - **templates/**: Business and technical templates
+  - **learning/**: Shared learning materials
+  - **insights/**: Cross-project insights and methodologies
 - **other-projects/**: Miscellaneous projects and experiments
 - **scripts/**: Master-level automation scripts for repository management
 
@@ -55,11 +61,12 @@ This is the master knowledge management repository containing multiple subprojec
 4. Preserve decision context in organized format
 5. Maintain original files in archived structure
 
-### Obsidian Vaults Strategy
-**Status**: Keep consolidated in current location
-- **AI Training Vault** → `obsidian-vaults/AI Training Vault/` (preserve as-is)
-- **D&D Content** → `obsidian-vaults/D&D/` (preserve as-is)
-- **Rationale**: Corresponds to local Obsidian vault storage location
+### Archive Strategy
+**Status**: Original content preserved in archive
+- **AI Training Vault** → `archive/obsidian-vaults/AI Training Vault/` (preserve as-is)
+- **D&D Content** → `archive/obsidian-vaults/D&D/` (preserve as-is)
+- **ChatGPT Projects** → `archive/chatgpt-projects/` (preserve as-is)
+- **Rationale**: Original content preserved forever, safe to process working copies
 
 ### Content Processing Priority:
 1. **IAAP Certification content** (directly relevant to accessibility business)
