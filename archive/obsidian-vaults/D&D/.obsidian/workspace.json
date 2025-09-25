@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2b4aa300a87e3677",
+    "type": "split",
+    "children": [
+      {
+        "id": "99cc4480b4da98f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4603fe64dad0aaa2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "652c479a7f1146b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ag's Random Baby Mama.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ag's Random Baby Mama"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67b6fde0d41a7472",
+    "type": "split",
+    "children": [
+      {
+        "id": "305e67c615a6580e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848a01f44d8c6d1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a686a89f699fc4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5dc5b41bf327552c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "5277b755dcaf5411",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d44a4d03cddcc6cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c3b6bf8db979024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad3d6e47cb313ed0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Triasche.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Triasche"
+            }
+          },
+          {
+            "id": "bf3b35e1a1ab2007",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Triasche.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Triasche"
+            }
+          },
+          {
+            "id": "dc32a133aa898abd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20c6684dc3cc732b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Triasche.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Triasche"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "peerdraft:Show my Peerdraft Shares": false
+    }
+  },
+  "active": "652c479a7f1146b0",
+  "lastOpenFiles": [
+    "Ag's Stepmom (Working Title).md",
+    "Clint's Mirco-RPG Jam.md",
+    "Resh Silver.md",
+    "Peterseed Family (Petersbridge).md",
+    "Father Patrick.md",
+    "Elsewise Peterseed.md",
+    "Working Title.md",
+    "Wood Elf.md",
+    "Surgeon of the Five.md",
+    "The Shaking of Hell (Event) (Working title).md",
+    "Filibuster Flintlock.md",
+    "Kylie Brightborn.md",
+    "Unrava.md",
+    "Ravistad.md",
+    "Pit Fiend.md",
+    "Oom.md",
+    "The Promise of New Alchemy.md",
+    "Dark Trivium.md",
+    "Rasthmus Peterseed.md",
+    "Dominate Monster.md",
+    "Wish.md",
+    "Shattered Mirror (Monster).md",
+    "Brownie (Monster).md",
+    "Johnathan Brightborn I.md",
+    "Forgetting Shard.md",
+    "Rainwhisper.md",
+    "Untitled.canvas"
+  ]
+}

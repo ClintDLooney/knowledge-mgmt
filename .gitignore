@@ -2,8 +2,6 @@
 # This repository tracks system-level files and workspace configurations
 # Project-specific files are handled by individual project repositories
 
-# Project-specific Git repositories (handled by individual repos)
-a11y-ai/.git/
 # Archive content should be tracked
 # archive/ is intentionally tracked for backup purposes
 

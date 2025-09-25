@@ -1,0 +1,557 @@
+{
+  "main": {
+    "id": "8f1e68bd2e0923e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9252f030cf8639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33046c9de6da47a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsupervised Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unsupervised Machine Learning"
+            }
+          },
+          {
+            "id": "087f90444153816a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supervised vs. Unsupervised Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supervised vs. Unsupervised Learning"
+            }
+          },
+          {
+            "id": "efe940e582a97d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transfer Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transfer Learning"
+            }
+          },
+          {
+            "id": "fea141229210ce20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reinforcement Learning"
+            }
+          },
+          {
+            "id": "50b2241f4fe716a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generative Adversarial Network (GAN).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generative Adversarial Network (GAN)"
+            }
+          },
+          {
+            "id": "6f3c2de91709a500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Knowledge Graph"
+            }
+          },
+          {
+            "id": "b08811e14f411b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Ethics Considerations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Ethics Considerations"
+            }
+          },
+          {
+            "id": "66acd8de2433adde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limitations of AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limitations of AI"
+            }
+          },
+          {
+            "id": "d5ce4a19f11148aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Training Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Training Resources"
+            }
+          },
+          {
+            "id": "9d0a5e98f00638c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adversarial Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adversarial Attack"
+            }
+          },
+          {
+            "id": "c7b0c98a3a11a42f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adversarial Defenses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adversarial Defenses"
+            }
+          },
+          {
+            "id": "9a7521f40f15fb15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Training Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Training Resources"
+            }
+          },
+          {
+            "id": "f8e18bbf0aaa829a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent"
+            }
+          },
+          {
+            "id": "749ca37b2a6f4000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "State"
+            }
+          },
+          {
+            "id": "16231c5ae191a8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initial State.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Initial State"
+            }
+          },
+          {
+            "id": "2beaba9465b8ee07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actions"
+            }
+          },
+          {
+            "id": "c4e342980f205162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transition Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transition Model"
+            }
+          },
+          {
+            "id": "d122d482d7098104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State Space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "State Space"
+            }
+          },
+          {
+            "id": "45c3c0f27a18317d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goal Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goal Test"
+            }
+          },
+          {
+            "id": "a7e51ab7bf8933bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Path Cost.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path Cost"
+            }
+          },
+          {
+            "id": "90a2cf197054ccb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solution"
+            }
+          },
+          {
+            "id": "fe8173037058192e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt Library.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt Library"
+            }
+          },
+          {
+            "id": "0fe3fe4be64652e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF to Accessible Plain Text Converter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PDF to Accessible Plain Text Converter"
+            }
+          },
+          {
+            "id": "7fd39ad9c56b9c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursor Material.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cursor Material"
+            }
+          },
+          {
+            "id": "f4a2f32d0d0bcb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Tools/Frameworks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frameworks"
+            }
+          }
+        ],
+        "currentTab": 24
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e445bef9b1bd1f69",
+    "type": "split",
+    "children": [
+      {
+        "id": "f30a14de206f45ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e29b77487c7ce20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9bdb275059dbc55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cbcd11103622f3bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2a0fa286f8ae6b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb34f2ee7b057d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ac18e47d70b0068",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paid Creators SAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Paid Creators SAP"
+            }
+          },
+          {
+            "id": "527c6832eaff61e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Image to Image AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Image to Image AI"
+            }
+          },
+          {
+            "id": "6e420e25d88be0c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3cee4fa2da9b4802",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI Tools/Frameworks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Frameworks"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f4a2f32d0d0bcb37",
+  "lastOpenFiles": [
+    "(Feature) Amazon Q Context.md",
+    "Cursor Models Guide.md",
+    "Cursor Material.md",
+    "PDF to Accessible Plain Text Converter.md",
+    "Prompt Library.md",
+    "AI Training Resources.md",
+    "Optimal Solution.md",
+    "Node (Search Problem).md",
+    "Solution.md",
+    "Search Promblem.md",
+    "Actoin.md",
+    "Transition Model.md",
+    "Limitations of AI.md",
+    "Path Cost.md",
+    "Goal Test.md",
+    "State Space.md",
+    "Actions.md",
+    "Initial State.md",
+    "State.md",
+    "Agent.md",
+    "AI Misuse.md",
+    "Deep Fake.md",
+    "Adversarial Defenses.md",
+    "Adversarial Attack.md",
+    "Bias.md",
+    "Untitled 10.md",
+    "Pasted image 20250911173212.png",
+    "Pasted image 20250911173156.png",
+    "Pasted image 20250911173104.png",
+    "Pasted image 20250911173059.png",
+    "Untitled.base",
+    "Pasted image 20250820130530.png",
+    "Pasted image 20250820130525.png",
+    "Pasted image 20250820130514.png",
+    "AI_Transformation_Playbook.pdf",
+    "Clint Looney 1.pdf",
+    "Clint Looney.pdf",
+    "AI Tools",
+    "ai/superprompting/metadata",
+    "ai/superprompting/export_formats",
+    "ai/superprompting/example_sets",
+    "ai/superprompting/context_sets",
+    "ai/superprompting/prompt_templates",
+    "Pasted image 20250624130103.png"
+  ]
+}
