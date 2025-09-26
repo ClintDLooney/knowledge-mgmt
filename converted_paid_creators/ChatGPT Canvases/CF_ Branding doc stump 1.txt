@@ -1,0 +1,57 @@
+# Converted from: CF_ Branding doc stump 1.docx
+
+Branding & Setup — Domain Status Tracker
+
+Last updated: Sept 4, 2025 (ET)
+
+Batch 1 — Parsed from registrar pastes
+
+Legend: Available = normal reg price; Taken = currently registered by another party; Premium = available via aftermarket or broker service at higher one-time cost; Squatted = parked/for-sale with no standard-price path (will mark when clearly parked).
+
+Status Tracker (log)
+
+Sept 4, 2025 — Recorded full Batch 1 results (12 core + 1 bonus .tech) from registrar pastes; updated comparison roll‑up; queued Batch 2 variants.
+
+Comparison Table (Domain Column)
+
+Next: Batch 2 (Variants to check)
+
+Paste registrar results for these 8 variant/backups so we keep copy‑pastes light: 1. accessible-intelligence.com 2. accessible-intelligence.ai 3. accessible-intelligence.io 4. accessibleai.tech 5. accessibleiq.com 6. accessibleiq.ai 7. accessibleiq.io 8. access-ai.com
+
+(After Batch 2, I’ll post Batch 3 with additional shorteners and geo/descriptor backups if needed.)
+
+# | Domain | Status | Notes
+
+1 | accessibleintelligence.com | Taken | Registered 2017; Domains By Proxy (GoDaddy).
+
+2 | accessibleintelligence.ai | Taken | Registered 2023; Domains By Proxy (GoDaddy / Identity Digital).
+
+3 | accessibleintelligence.io | Taken | Registrar page indicates taken; WHOIS returned error but availability banner shows taken.
+
+4 | accessibleintelligence.biz | Available | Standard registration pricing shown.
+
+5 | accessibleintelligence.tech | Available | Standard registration pricing shown.
+
+6 | accessai.com | Taken | Registered 2018; privacy with NameSilo.
+
+7 | accessai.ai | Premium | Aftermarket / brokered via Afternic (priced on request).
+
+8 | accessai.io | Taken | Registered 2024; Domains By Proxy (GoDaddy).
+
+9 | accessai.biz | Available | Standard registration pricing shown.
+
+10 | accessibleai.com | Taken | Registered 2021; Bluehost / Perfect Privacy.
+
+11 | accessibleai.ai | Taken | Registered 2024; Domains By Proxy.
+
+12 | accessibleai.io | Taken | Registered 2024; Domains By Proxy.
+
+13 | accessibleai.biz | Available | Standard registration pricing shown.
+
+Brand / Name Line | Primary .com | Alt TLDs (.ai / .io / .biz / .tech) | Notes
+
+Accessible Intelligence | accessibleintelligence.com — Taken | .ai — Taken · .io — Taken · .biz — Available · .tech — Available | .com locked; .ai/.io also taken; viable: .biz, .tech.
+
+AccessAI | accessai.com — Taken | .ai — Premium · .io — Taken · .biz — Available | AccessAI .com/.io taken; .ai aftermarket; .biz free.
+
+AccessibleAI | accessibleai.com — Taken | .ai — Taken · .io — Taken · .biz — Available | .com/.ai/.io taken; .biz free.

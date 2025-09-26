@@ -1,0 +1,29 @@
+# Converted from: Brand Tld Status.docx
+
+Here’s the consolidated table of brand names and their TLD availability/status based on our research and scans so far:
+
+Legend: - ✅ Available = open to register at standard or predictable price. - ❌ Taken = already registered, broker/squatter control (cost unpredictable, may be $$$$).
+
+👉 This gives you the full overview at a glance. From this, your cleanest .com routes are currently: - AccessibleIntelligenceGroup.com - AccessibleIntelligenceSystems.com - AccessibleIntelligenceTech.com - All the AccessibleAI variants - AccessIQ.com
+
+The only red flag is AccessibleIntelligence.com, which is taken/squatted and could run into the thousands to acquire.
+
+Brand / Domain Stem | .com | .ai | .io | .tech
+
+AccessibleIntelligence | ❌ Taken (squatted) | ✅ Available ($49.99) | ✅ Available ($59.99) | ✅ Available ($24.99)
+
+AccessibleIntelligenceGroup | ✅ Available ($11.99) | ✅ Available ($49.99) | ✅ Available ($59.99) | ✅ Available ($24.99)
+
+AccessibleIntelligenceSystems | ✅ Available ($11.99) | ✅ Available ($49.99) | ✅ Available ($59.99) | ✅ Available ($24.99)
+
+AccessibleIntelligenceTech | ✅ Available ($11.99) | ✅ Available ($49.99) | ✅ Available ($59.99) | ✅ Available ($24.99)
+
+AccessibleAIGroup | ✅ Available ($11.99) | ✅ Available ($49.99) | ✅ Available ($59.99) | ✅ Available ($24.99)
+
+AccessibleAILabs | ✅ Available ($11.99) | ✅ Available ($49.99) | ✅ Available ($59.99) | ✅ Available ($24.99)
+
+AccessibleAISystems | ✅ Available ($11.99) | ✅ Available ($49.99) | ✅ Available ($59.99) | ✅ Available ($24.99)
+
+AccessibleAITech | ✅ Available ($11.99) | ✅ Available ($49.99) | ✅ Available ($59.99) | ✅ Available ($24.99)
+
+AccessIQ / AccessibleIQ | ✅ Available (~$12) | ✅ Available (~$50) | ✅ Available (~$60) | ✅ Available (~$25)

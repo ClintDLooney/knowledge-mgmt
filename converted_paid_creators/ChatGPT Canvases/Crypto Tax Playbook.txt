@@ -1,0 +1,113 @@
+# Converted from: Crypto Tax Playbook.docx
+
+Crypto Farming Tax Minimization Playbook
+
+This playbook lays out clear, legal strategies for reducing how much of your yield farming profits go to taxes — without the complexity of forming an LLC.
+
+1. Treat Farming as Personal Investment (Not Business)
+
+Farming rewards and trading gains are classified as investment income, not business revenue.
+
+Skip the LLC unless you plan to sell products/services — it adds paperwork without tax savings.
+
+File directly on your individual return (Form 1040 + Schedule D + any applicable crypto reporting forms).
+
+2. Classify Farming Income Correctly
+
+Staking/Farming Rewards → Ordinary income at fair market value when received.
+
+Swaps, Trades, Exits from Liquidity Pools → Capital gains (short- or long-term depending on holding period).
+
+Tracking: Use crypto tax software (e.g., CoinTracker, Koinly, TokenTax) to automate reporting.
+
+3. Strategies to Keep More of Your Earnings
+
+A. Long-Term Holding
+
+Tokens held 12+ months before selling qualify for long-term capital gains rates (0–20%).
+
+Contrast: short-term gains are taxed at your ordinary income rate (can be 22–37%).
+
+Action: If you believe in a token’s future, aim to hold rewards for >12 months.
+
+B. Loss Harvesting
+
+Sell underperforming tokens at a loss to offset gains.
+
+Capital losses can offset capital gains dollar-for-dollar.
+
+If losses exceed gains, up to $3,000/year can offset ordinary income, with excess carried forward.
+
+Action: Before year-end, review portfolio for candidates to harvest.
+
+C. Tax-Advantaged Accounts
+
+Use a Self-Directed IRA or Solo 401(k) (with a crypto-friendly custodian) to farm within a retirement wrapper.
+
+Gains grow tax-deferred (IRA/401k) or tax-free (Roth).
+
+Caution: Not all custodians allow active DeFi protocols — check rules before transacting.
+
+D. State & Residency Planning
+
+U.S. states without income tax: Florida, Texas, Wyoming, Nevada, Washington, South Dakota, Alaska.
+
+Some countries have 0% crypto tax (Portugal, UAE, El Salvador, etc.).
+
+Action: If relocation is on the table, factor tax residency into your wealth strategy.
+
+E. Gas Fees & Transaction Costs
+
+Deductible against gains when directly tied to acquiring or disposing of tokens.
+
+Example: Gas fees for swapping tokens can increase cost basis or reduce proceeds.
+
+Action: Keep detailed records of fees for every transaction.
+
+F. Timing Sales Strategically
+
+Spreading sales across tax years can keep you in a lower bracket.
+
+Example: Sell half of a large position in December, half in January.
+
+Action: Run year-end simulations (with tax software or CPA) to optimize timing.
+
+4. Practical Steps to Stay Clean
+
+Separate wallets for farming vs. personal spending for easier tracking.
+
+Document intent: keep notes/screenshots of major moves.
+
+Crypto tax software: reconcile wallets/exchanges monthly.
+
+Professional check-in: consult a crypto-savvy CPA annually, especially if yield is >$20k.
+
+5. What NOT to Do
+
+Don’t try to run farming through an LLC just to “write off” education — IRS won’t accept it.
+
+Don’t mix personal and business wallets if you do start offering services later.
+
+Don’t ignore reporting — crypto transactions leave a blockchain trail.
+
+🚀 Quick Action Checklist
+
+Decide: farm as individual (default, simplest).
+
+Pick a crypto tax software and connect wallets.
+
+Track rewards received → record fair market value on date earned.
+
+Plan holding periods: keep some positions >12 months.
+
+Before Dec 31: harvest losses where useful.
+
+Review relocation/retirement account options if relevant.
+
+Book a crypto CPA once a year to confirm compliance + optimization.
+
+Bottom Line
+
+For yield farming only, personal investing is simpler and just as tax-efficient as an LLC. Maximize what you keep by: - Holding long-term for better rates. - Harvesting losses. - Using retirement accounts where possible. - Strategically timing sales and watching your residency choices.
+
+This keeps your strategy legal, lean, and profit-focused — no unnecessary structures or extra filings.

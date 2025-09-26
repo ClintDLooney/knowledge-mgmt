@@ -1,0 +1,141 @@
+# Converted from: Fl Llc Post Filing.docx
+
+Florida LLC Post-Filing Checklist
+
+Congratulations — your Articles of Organization are filed! While waiting for Sunbiz approval and your official Certificate of Status, here’s what to do next to set up Accessible Intelligence LLC correctly.
+
+1. Track & Confirm Filing
+
+Tracking Number: 300458005853 (keep on file).
+
+Sunbiz will email you once your LLC is approved.
+
+Download and save:
+
+Filing acknowledgment
+
+Certificate of Status (you paid for this)
+
+Copy of Articles of Organization
+
+Create a digital folder (e.g., Accessible Intelligence LLC – Formation) and store all docs.
+
+2. Apply for EIN (IRS Employer Identification Number)
+
+Free via IRS.gov → Apply for EIN Online.
+
+Needed for:
+
+Business bank account
+
+Payment processors (Stripe, PayPal, etc.)
+
+Tax filings
+
+Apply as a Single-Member LLC (default = disregarded entity).
+
+3. File Beneficial Ownership Information (BOI Report)
+
+Required federally as of Jan 1, 2024.
+
+File with FinCEN (not Sunbiz).
+
+Deadline: within 90 days of LLC formation.
+
+Information required:
+
+Company name & EIN
+
+Your legal name, DOB, home address
+
+Copy of ID (driver’s license or passport)
+
+No fee, file online at FinCEN.
+
+4. Open a Business Bank Account
+
+Bring:
+
+Articles of Organization (filed copy)
+
+Certificate of Status
+
+EIN confirmation letter (from IRS)
+
+Driver’s license or ID
+
+Choose a bank or credit union with low fees or one that supports online entrepreneurs.
+
+Keep all LLC finances separate from personal accounts.
+
+5. Draft an Operating Agreement
+
+Not required by Florida law, but strongly recommended.
+
+Establishes:
+
+Ownership (you = 100%)
+
+Management (you as AMBR)
+
+How profits/losses are treated
+
+Rules for adding future members
+
+Helps preserve liability protection and looks professional to banks/investors.
+
+6. Set Up Recordkeeping & Accounting
+
+Choose accounting method: cash basis (simpler for most small LLCs).
+
+Software: QuickBooks, Wave, or even Excel for now.
+
+Track:
+
+Income
+
+Expenses (training, software, subscriptions)
+
+Distributions to yourself
+
+Save receipts for deductions.
+
+7. Calendar Annual Report Deadline
+
+Every Florida LLC must file an Annual Report by May 1st each year.
+
+First report due: May 1, 2026 (since you filed in Sept 2025).
+
+Fee: ~$138.75.
+
+Missing it = late fee or dissolution.
+
+8. Optional but Smart Next Steps
+
+Register DBAs (fictitious names) if you want to publicly use alternate brand names (e.g., “Accessible IQ”). Cost: ~$50 + local newspaper notice.
+
+Consider professional business email (e.g., admin@accessibleintel.com).
+
+Set up cloud storage for documents.
+
+🚀 Quick Action Checklist
+
+Save confirmation & Certificate of Status
+
+Apply for EIN
+
+File BOI Report (90-day deadline)
+
+Open business bank account
+
+Draft & sign Operating Agreement
+
+Set up bookkeeping system
+
+Calendar Annual Report deadline
+
+Optional: File DBAs and set up business email
+
+Bottom Line
+
+You’re officially in business. Once you complete these post-filing steps, Accessible Intelligence LLC will be fully operational, compliant, and ready to scale — whether you’re handling accessibility consulting, AI tools, or financial education pivots.

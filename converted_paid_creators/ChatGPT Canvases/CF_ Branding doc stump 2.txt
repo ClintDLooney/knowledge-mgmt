@@ -1,0 +1,41 @@
+# Converted from: CF_ Branding doc stump 2.docx
+
+Here’s the Batch 1a final domain availability table now updated inside the Branding & Setup canvas:
+
+Domain Status Tracker — Batch 1a
+
+Summary of Batch 1a
+
+Taken: 5 domains (.com, .ai, .io for both accessibleintelligence and accessai.com/.io).
+
+Available (standard): 3 domains (.biz, .tech, accessai.biz).
+
+Premium/aftermarket: 1 domain (accessai.ai).
+
+✅ Next Step: Batch 1b — the accessibleai.* set (4 domains).
+Please run registrar lookups for: 1. accessibleai.com
+2. accessibleai.ai
+3. accessibleai.io
+4. accessibleai.biz
+
+Paste results raw and I’ll classify + update this table further.
+
+Domain | Status | Notes
+
+accessibleintelligence.com | Taken | Registered (2017), privacy-protected via Domains By Proxy.
+
+accessibleintelligence.ai | Taken | Registered (2023), privacy-protected via Domains By Proxy.
+
+accessibleintelligence.io | Taken | WHOIS query error, but registrar confirms it is registered.
+
+accessibleintelligence.biz | Available | Standard reg pricing shown.
+
+accessibleintelligence.tech | Available | Standard reg pricing shown.
+
+accessai.com | Taken | Registered (2018), privacy-protected via NameSilo.
+
+accessai.ai | Premium | Listed as “available for sale” via Afternic/broker.
+
+accessai.io | Taken | Registered (2024), privacy-protected via Domains By Proxy.
+
+accessai.biz | Available | Standard reg pricing shown.

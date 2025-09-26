@@ -1,0 +1,61 @@
+# Converted from: Holding Bin Misc Notes.docx
+
+🗂️ Holding Bin — Misc Notes
+
+This Canvas stores anything useful from the conversation that doesn’t already live in one of the dedicated Canvases (Funnel Master Doc, Audit GPT Scaffold, VPAT GPT Scaffold, Branding & Setup Doc, Reset Protocol).
+
+Captured Notes
+
+Batching WHOIS Results: Best practice is to paste 8–12 domain WHOIS/availability results at once. I’ll decode them all, then update the Branding & Setup Doc in a single edit. Keeps things efficient.
+
+Batch 1 TLD Targets:
+
+accessibleintelligence.com
+
+accessibleintelligence.ai
+
+accessibleintelligence.io
+
+accessibleintelligence.biz
+
+accessai.com
+
+accessai.ai
+
+accessai.io
+
+accessai.biz
+
+accessibleai.com
+
+accessibleai.ai
+
+accessibleai.io
+
+accessibleai.biz
+
+Batch Workflow:
+
+Step 1: User pastes WHOIS/domain results (like GoDaddy output).
+
+Step 2: Assistant parses → Available / Taken / Premium / Squatted.
+
+Step 3: Assistant updates Branding & Setup Doc with summary + comparison table.
+
+Social Handle Checks:
+
+Suggested canonical handles:
+
+Accessible Intelligence → @AccessibleIntel or @AccessIntel
+
+Access AI → @AccessAI or @AccessAIHQ
+
+Accessible AI → @AccessibleAI
+
+Platforms to check: LinkedIn, X, YouTube, Instagram, TikTok (opt), Threads (opt), GitHub (opt), Reddit (opt).
+
+Next Actions
+
+User will reset chat history to lighten context.
+
+Then reinsert prompt (see below) to resume the TLD hunt cleanly.
