@@ -1,0 +1,6 @@
+# Word Document Processing Requirements
+# ====================================
+# 
+# Required packages for the Cursor Word Integration system
+
+python-docx>=0.8.11
